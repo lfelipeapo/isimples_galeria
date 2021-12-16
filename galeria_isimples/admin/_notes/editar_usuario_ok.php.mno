@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rsDados" value="name:IDAdmin;datatype:int,name:Usuario;datatype:string,name:Senha;datatype:string" />
-</info>
