@@ -1,0 +1,8 @@
+Mande essas duas pastas para o servidor Connections e galeria_isimples....
+
+
+após enviar todos arquivos contido nas duas pastas...  instale o galeria.sql abaixo em seu phpmyadmin...
+
+
+
+qualquer duvida... me add redmadox@hotmail.com

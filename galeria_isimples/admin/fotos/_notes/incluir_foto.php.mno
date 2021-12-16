@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsAlbuns" value="name:IDAlbum;datatype:int,name:Capa;datatype:string,name:Desc;datatype:string" />
+	<infoitem key="UD_rsFotos" value="name:IDFoto;datatype:int,name:IDAlbum;datatype:string,name:Foto;datatype:string,name:Desc;datatype:string" />
+</info>
